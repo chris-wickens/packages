@@ -820,7 +820,7 @@ class StatefulShellRoute extends ShellRouteBase {
   /// representing the branch Navigators. Apart from that, this constructor
   /// works the same way as the default constructor.
   ///
-  /// See [Stateful Nested Navigation](https://github.com/flutter/packages/blob/main/packages/go_router/example/lib/stacked_shell_route.dart)
+  /// See [Stateful Nested Navigation](https://github.com/flutter/packages/blob/main/packages/go_router/example/lib/stateful_shell_route.dart)
   /// for a complete runnable example using StatefulShellRoute.indexedStack.
   StatefulShellRoute.indexedStack({
     required List<StatefulShellBranch> branches,
